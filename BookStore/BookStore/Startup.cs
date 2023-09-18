@@ -25,8 +25,19 @@ namespace BookStore
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.Use(async (context, next) =>
+            {
+                await context.Response.WriteAsync("this is my first middleware");
 
-            app.UseRouting();
+                await next();
+                });
+            app.Use(async (context, next) =>
+            {
+                await context.Response.WriteAsync("this is my second middleware");
+            });
+
+
+           /* app.UseRouting();
 
             app.UseEndpoints(endpoints =>
             {
@@ -34,7 +45,7 @@ namespace BookStore
                 {
                     await context.Response.WriteAsync("Hello World!");
                 });
-            });
+            });*/
         }
     }
 }
