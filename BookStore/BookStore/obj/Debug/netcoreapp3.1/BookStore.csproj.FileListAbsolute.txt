@@ -13,9 +13,12 @@ C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\o
 C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\BookStore.StaticWebAssets.Manifest.cache
-C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\BookStore.StaticWebAssets.xml
-C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookStore.styles.css
 C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cache
 C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.dll
 C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.pdb
 C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\BookStore.StaticWebAssets.Pack.cache
+C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.BookStore.props
+C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.BookStore.props
+C:\Users\User\OneDrive\Desktop\DATA\.net\project\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.BookStore.props
