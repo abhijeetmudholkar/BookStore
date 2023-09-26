@@ -12,9 +12,9 @@ namespace BookStore.Controllers
         {
             return $"Book Details of id : {id}";
         }
-        public string SearchBook(string name="abhi")
+        public string SearchBook(string name,string a)
         {
-            return $"Book Name is:{name} and writer is :";
+            return $"Book Name is:{name} and writer is :{a}";
         }
     }
 }
