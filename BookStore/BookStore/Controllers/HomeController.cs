@@ -9,10 +9,17 @@ namespace BookStore.Controllers
     public class HomeController : Controller
     {
         //this method called action method
-        public string Index()
+        public ViewResult Index()
         {
-            return "Welcome";
+            return View();
         }
-
+        public ViewResult Aboutus()
+        {
+            return View();
+        }
+        public ViewResult ContactUs()
+        {
+            return View();
+        }
     }
 }
