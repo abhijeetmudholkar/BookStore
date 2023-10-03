@@ -1,6 +1,7 @@
 ﻿
 @{
     Layout = null;
+    
 }
 
 <!DOCTYPE html>
@@ -11,6 +12,24 @@
     <title>index</title>
 </head>
 <body>
-    <h1>WELCOME TO BOOK STORE</h1>
+        <h1>WELCOME TO BOOK STORE</h1>
+    <!--Example of Razer single line syntax-->
+        <h1>@DateTime.Now</h1>
+        <h1>@DateTime.Now.ToString("dd/MM/yyyy")</h1>
+        <hr />
+    <!--Exmaple of Razer Multiline syntax-->
+    @{
+        int a = 10;
+        int b = 20;
+        int c = a + b;
+        var s = "Hello World";
+    }
+    <h1>Sum = @c</h1>
+    <h2>@s</h2>
+    <hr />
+    <h1>Write Email</h1>
+    <h2>abhijeetmudholkar000@gmail.com</h2>
+    <h1>Escape Sequence</h1>
+    <h2>@@Abhi4641</h2>
 </body>
 </html>
